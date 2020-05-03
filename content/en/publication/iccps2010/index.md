@@ -67,5 +67,6 @@ tags:
   - optimal control
   - cyber-physical systems
   - workshop
+  - smart-grid
 
 ---

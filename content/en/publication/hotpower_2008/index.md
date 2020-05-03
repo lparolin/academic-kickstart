@@ -53,7 +53,6 @@ image:
   placement: 1
   preview_only: false
   alt_text: "A computational network of server nodes coupled with a thermal network of server, CRAC, and environment nodes."
-  caption: "Proposed joint network of servers and CRACs"
 
 tags:
  - data center

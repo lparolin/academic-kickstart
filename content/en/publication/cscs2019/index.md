@@ -60,4 +60,5 @@ tags:
   - bayesian network
   - deep learning
   - siamese network
+  - workshop
 ---
