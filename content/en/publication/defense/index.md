@@ -64,8 +64,12 @@ tags:
   - mpc
   - linear programming
   - distributed optimization
+  - optimal control
   - cyber-physical systems
   - cyber-physical index
+  - energy management
+  - energy efficiency
+  - thermal modeling
 
 image:
   placement: 1
