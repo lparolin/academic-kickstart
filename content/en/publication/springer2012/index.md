@@ -69,6 +69,10 @@ highlight: false
 #image: "headers/bubbles-wide.jpg"
 #caption: "My caption 😄"
 
+categories:
+   - paper
+
+
 tags:
   - data center
   - energy management

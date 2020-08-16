@@ -55,6 +55,8 @@ highlight: false
 image:
   alt_text: "Data center power consumption under time-varying electricity price for two different control strategies."
 
+categories:
+  - paper
 
 tags:
   - data center

@@ -16,7 +16,6 @@ authors:
   - Alois Knoll
 
 publication_types: ["1"]
-
 # Publication name and optional abbreviated version.
 publication: "ACM computer science in cars symposium"
 publication_short: "CSCS 2019"
@@ -61,4 +60,8 @@ tags:
   - deep learning
   - siamese network
   - workshop
+
+categories:
+  - paper
+
 ---

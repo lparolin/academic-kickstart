@@ -58,6 +58,9 @@ highlight: false
 image:
   alt_text: "Power consumption, inlet, outlet, and estimated air temperature values of a desktop machine"
 
+categories:
+   - paper
+
 tags:
   - data center
   - energy management

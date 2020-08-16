@@ -9,22 +9,22 @@
   weight = 10
 
 [[main]]
-    name ="Experience"
+    name ="Esperienze"
     url = "#experience"
     weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "Pubblicazioni"
   url = "#publications"
   weight = 40
 
   [[main]]
-    name = "Patents"
+    name = "Brevetti"
     url = "#patents"
     weight = 50
 
 [[main]]
-  name = "Contact"
+  name = "Contatto"
   url = "#contact"
   weight = 60
 

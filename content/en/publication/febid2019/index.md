@@ -63,4 +63,6 @@ tags:
   - cyber-physical systems
   - workshop
 
+categories:
+  - paper
 ---

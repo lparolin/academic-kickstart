@@ -15,7 +15,6 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
 publication: "Proceedings of the IEEE"
-#publication_short: "In *ARCH*"
 
 # Abstract and optional shortened version.
 abstract: "This paper presents data centers from a _cyber-physical system_ (CPS) perspective. Current methods for controlling information technology (IT) and cooling technology (CT) in data centers are classified according to the degree to which they take into account both cyber and physical considerations. To evaluate the potential impact of coordinated CPS strategies at the data center level, we introduce a control-oriented model that represents the data center as two coupled networks:
@@ -71,6 +70,9 @@ math: false
 
 # Does the content use source code highlighting?
 highlight: false
+
+categories:
+   - paper
 
 tags:
   - optimization

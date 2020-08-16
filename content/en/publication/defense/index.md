@@ -71,6 +71,10 @@ tags:
   - energy efficiency
   - thermal modeling
 
+categories:
+  - thesis
+  - paper
+
 image:
   placement: 1
   preview_only: false

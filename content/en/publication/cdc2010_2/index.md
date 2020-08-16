@@ -55,4 +55,6 @@ tags:
   - cdc
   - markov chain
 
+categories:
+  - paper
 ---

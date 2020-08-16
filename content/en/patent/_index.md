@@ -12,4 +12,12 @@ view: 2
 header:
   caption: ""
   image: ""
+
+content:
+  filters:
+    tag: ""
+    category: "patent"
+    categories: ["patent"]
+    publication_type: ""
+    exclude_featured: false
 ---

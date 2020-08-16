@@ -63,4 +63,7 @@ tags:
  - hybrid-systems
  - workshop
  - benchmark
+
+categories:
+ - paper
 ---
