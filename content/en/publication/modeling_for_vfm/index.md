@@ -1,23 +1,26 @@
 ---
-title: "Method, system, and computer program product for determining a blockage of a sensor of a plurality of sensors of an ego vehicle"
+title: "Modeling framework for virtual flow metering for oil and gas applications"
 
 # Date first published.
-date: "2019-07-17"
+publishDate: "2015-08-19"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
-  - T. L. Abt
-  - K. Hirsenkorn
-  - C. Isert
-  - L. Parolini
-  - S. Radler
-  - S. Rauch
+ - Luca Parolini
+ - Vittorio Michelassi
 
-publication_number: "EP3511740A1"
-application_number: "EP18151367A"
+application_number: "US20170051581A1"
 
 # Publication type.
 # Legend:
+# 0: Uncategorized
+# 1: Conference proceedings
+# 2: Journal
+# 3: Work in progress
+# 4: Technical report
+# 5: Book
+# 6: Book chapter
+# 7: Patent
 publication_types: ["8"]
 
 # Publication name and optional abbreviated version.
@@ -25,14 +28,14 @@ publication: ""
 publication_short: ""
 
 # Abstract and optional shortened version.
-abstract: "It is described a method for determining a blockage of a sensor of a plurality of sensors of an ego vehicle, the method comprising: determining an prior blockage probability of the sensor of the plurality of sensors; receiving sensor data of the sensor of the plurality of sensors; determining a performance of the sensor based on the received sensor data; calculating an posterior blockage probability based on the prior blockage probability of the sensor and the performance of the sensor; and determining the blockage of the sensors using the calculated posterior blockage probability."
+abstract: "A method of operating a hydrocarbon extraction field with the aid of a computer includes programming the computer with a virtual flow meter model. The model may be written with a notation that represents at least one of mass flow, temperature and pressure at extremities of a plurality of pressure loss elements (PLEs). The PLEs may include a plurality of wells located in the hydrocarbon extraction field. The method may further include the computer estimating, with use of the model, respective mass flow rates from a plurality of the wells. The method may further include controlling elements of the hydrocarbon extraction field based at least in part on the estimated mass flow rates."
 abstract_short: ""
 
 # Featured image thumbnail (optional)
 image_preview: ""
 
 # Is this a selected publication? (true/false)
-selected: false
+selected: true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,7 +52,7 @@ url_project: ""
 url_slides: ""
 url_video: ""
 url_poster: ""
-url_source: "https://data.epo.org/gpi/EP3511740A1-METHOD-SYSTEM-AND-COMPUTER-PROGRAM-PRODUCT-FOR-DETERMINING-A-BLOCKAGE-OF-A-SENSOR-OF-A-PLURALITY-OF-SENSORS-OF-AN-EGO-VEHICLE"
+url_source: "https://patents.google.com/patent/US20170051581A1"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -59,7 +62,7 @@ url_source: "https://data.epo.org/gpi/EP3511740A1-METHOD-SYSTEM-AND-COMPUTER-PRO
 math: false
 
 # Does the content use source code highlighting?
-highlight: false
+highlight: true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image: "example.jpg"`.
@@ -71,8 +74,10 @@ categories:
  - patent
 
 tags:
-  - autonomous driving
-  - blockage detection
-  - environment model
+ - vfm
+ - ge
+ - oil&gas
+ - modeling
+ - estimation
 
 ---

@@ -2,7 +2,8 @@
 title: "Managing cooling devices and computing nodes in an infrastructure"
 
 # Date first published.
-date: "2010-06-02"
+publishDate: "2010-06-02"
+date: "2013-09-17"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:

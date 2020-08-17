@@ -1,17 +1,20 @@
 ---
-title: "System und Verfahren zum Reinigen von Sensoren eines Fahrzeugs"
+title: "Method, system, and computer program product for determining a blockage of a sensor of a plurality of sensors of an ego vehicle"
 
 # Date first published.
-date: "2019-09-09"
+date: "2019-07-17"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
-  - Mathias Pinsel
-  - Mark Zellerhoff
-  - Lawrence Louis
-  - Luca Parolini
+  - T. L. Abt
+  - K. Hirsenkorn
+  - C. Isert
+  - L. Parolini
+  - S. Radler
+  - S. Rauch
 
-application_number: "102019124099.9"
+publication_number: "EP3511740A1"
+application_number: "EP18151367A"
 
 # Publication type.
 # Legend:
@@ -22,7 +25,7 @@ publication: ""
 publication_short: ""
 
 # Abstract and optional shortened version.
-abstract: "ADDME"
+abstract: "It is described a method for determining a blockage of a sensor of a plurality of sensors of an ego vehicle, the method comprising: determining an prior blockage probability of the sensor of the plurality of sensors; receiving sensor data of the sensor of the plurality of sensors; determining a performance of the sensor based on the received sensor data; calculating an posterior blockage probability based on the prior blockage probability of the sensor and the performance of the sensor; and determining the blockage of the sensors using the calculated posterior blockage probability."
 abstract_short: ""
 
 # Featured image thumbnail (optional)
@@ -46,7 +49,7 @@ url_project: ""
 url_slides: ""
 url_video: ""
 url_poster: ""
-url_source: ""
+url_source: "https://data.epo.org/gpi/EP3511740A1-METHOD-SYSTEM-AND-COMPUTER-PROGRAM-PRODUCT-FOR-DETERMINING-A-BLOCKAGE-OF-A-SENSOR-OF-A-PLURALITY-OF-SENSORS-OF-AN-EGO-VEHICLE"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -69,8 +72,8 @@ categories:
 
 tags:
   - autonomous driving
-  - architecture
+  - blockage detection
   - environment model
-  - sensor cleaning management
+  - bmw
 
 ---

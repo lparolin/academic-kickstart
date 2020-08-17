@@ -16,8 +16,7 @@ header:
 content:
   filters:
     tag: ""
-    category: "paper"
-    categories: ["paper"]
+    categories: ""
     publication_type: ""
     exclude_featured: false
 ---
